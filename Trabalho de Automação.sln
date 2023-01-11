@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trabalho de Automação", "Trabalho de Automação.vcxproj", "{B0258EBD-A149-4108-A0C9-943DB6EF2999}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TrabalhoDeAutomaçãoSetup", "..\TrabalhoDeAutomaçãoSetup\TrabalhoDeAutomaçãoSetup.vdproj", "{C263A310-D40F-4343-B2DD-CB5D248AE3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0258EBD-A149-4108-A0C9-943DB6EF2999}.Debug|x64.ActiveCfg = Debug|x64
+		{B0258EBD-A149-4108-A0C9-943DB6EF2999}.Debug|x64.Build.0 = Debug|x64
+		{B0258EBD-A149-4108-A0C9-943DB6EF2999}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0258EBD-A149-4108-A0C9-943DB6EF2999}.Debug|x86.Build.0 = Debug|Win32
+		{B0258EBD-A149-4108-A0C9-943DB6EF2999}.Release|x64.ActiveCfg = Release|x64
+		{B0258EBD-A149-4108-A0C9-943DB6EF2999}.Release|x64.Build.0 = Release|x64
+		{B0258EBD-A149-4108-A0C9-943DB6EF2999}.Release|x86.ActiveCfg = Release|Win32
+		{B0258EBD-A149-4108-A0C9-943DB6EF2999}.Release|x86.Build.0 = Release|Win32
+		{C263A310-D40F-4343-B2DD-CB5D248AE3FB}.Debug|x64.ActiveCfg = Debug
+		{C263A310-D40F-4343-B2DD-CB5D248AE3FB}.Debug|x86.ActiveCfg = Debug
+		{C263A310-D40F-4343-B2DD-CB5D248AE3FB}.Release|x64.ActiveCfg = Release
+		{C263A310-D40F-4343-B2DD-CB5D248AE3FB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63D347B1-84B9-47BD-9F9B-FA911A37012E}
+	EndGlobalSection
+EndGlobal
